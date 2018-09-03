@@ -1,0 +1,2 @@
+https://leetcode.com/problems/two-sum/description/
+https://leetcode.com/problemset/algorithms/?difficulty=Easy&listId=79h8rn6&topicSlugs=hash-table
